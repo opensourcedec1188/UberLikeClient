@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="13196" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" colorMatched="YES">
+    <device id="retina4_7" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="13173"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <customFonts key="customFonts">
+        <array key="Roboto-Medium.ttf">
+            <string>Roboto-Medium</string>
+        </array>
+        <array key="Roboto-Regular.ttf">
+            <string>Roboto-Regular</string>
+        </array>
+    </customFonts>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner" customClass="NearbyRecentCardView" customModule="Ego" customModuleProvider="target">
+            <connections>
+                <outlet property="CONTENTVIEW" destination="UGT-lZ-klv" id="JgA-U5-AQ6"/>
+                <outlet property="addFavBtn" destination="Nwg-vE-8mg" id="dUg-lu-bIv"/>
+                <outlet property="dashedView" destination="WR0-CL-Zqo" id="42j-cP-FsQ"/>
+                <outlet property="descriptionLabel" destination="1oP-G1-vcq" id="YpW-IV-GaZ"/>
+                <outlet property="emptyContentView" destination="HHF-XD-Wm3" id="HYP-Dq-wHB"/>
+                <outlet property="emptyTitleLabel" destination="Gzn-Kw-9oK" id="tlR-Nu-6eI"/>
+                <outlet property="favButton" destination="mb5-Go-5lp" id="4hY-IS-fOp"/>
+                <outlet property="filledContentView" destination="1GS-aY-q81" id="aF5-6M-D6R"/>
+                <outlet property="placeImageView" destination="dTb-73-Zc3" id="SXA-WP-4de"/>
+                <outlet property="titleLabel" destination="9w3-am-Fcx" id="7Cv-Kb-pRx"/>
+            </connections>
+        </placeholder>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view contentMode="scaleToFill" id="UGT-lZ-klv">
+            <rect key="frame" x="0.0" y="0.0" width="256" height="103"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <view hidden="YES" contentMode="scaleToFill" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="HHF-XD-Wm3">
+                    <rect key="frame" x="0.0" y="0.0" width="256" height="103"/>
+                    <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                    <subviews>
+                        <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="leftEffect" translatesAutoresizingMaskIntoConstraints="NO" id="vOT-x3-Qgs">
+                            <rect key="frame" x="0.0" y="0.0" width="116" height="103"/>
+                            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                        </imageView>
+                        <view contentMode="scaleToFill" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="WR0-CL-Zqo">
+                            <rect key="frame" x="17" y="16" width="222" height="72"/>
+                            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            <subviews>
+                                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Label" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Gzn-Kw-9oK">
+                                    <rect key="frame" x="30" y="47" width="161" height="21"/>
+                                    <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                    <fontDescription key="fontDescription" name="Roboto-Regular" family="Roboto" pointSize="14"/>
+                                    <color key="textColor" red="0.1333333333" green="0.1960784314" blue="0.28627450980000002" alpha="0.56300834759999996" colorSpace="calibratedRGB"/>
+                                    <nil key="highlightedColor"/>
+                                </label>
+                                <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Nwg-vE-8mg">
+                                    <rect key="frame" x="0.0" y="0.0" width="222" height="72"/>
+                                    <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                    <state key="normal" image="homeAddFavBtn"/>
+                                    <connections>
+                                        <action selector="addButtonAction:" destination="-1" eventType="touchUpInside" id="aoQ-lt-IGw"/>
+                                    </connections>
+                                </button>
+                            </subviews>
+                            <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
+                        </view>
+                    </subviews>
+                    <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                    <userDefinedRuntimeAttributes>
+                        <userDefinedRuntimeAttribute type="number" keyPath="layer.cornerRadius">
+                            <integer key="value" value="6"/>
+                        </userDefinedRuntimeAttribute>
+                    </userDefinedRuntimeAttributes>
+                </view>
+                <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="1GS-aY-q81">
+                    <rect key="frame" x="0.0" y="0.0" width="256" height="103"/>
+                    <subviews>
+                        <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="leftCardBG" translatesAutoresizingMaskIntoConstraints="NO" id="iZI-PW-TeU">
+                            <rect key="frame" x="0.0" y="1" width="115.5" height="101.5"/>
+                            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                        </imageView>
+                        <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Work" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="3" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="9w3-am-Fcx">
+                            <rect key="frame" x="75" y="7" width="169" height="70"/>
+                            <constraints>
+                                <constraint firstAttribute="height" constant="70" id="IoA-nG-ew9"/>
+                            </constraints>
+                            <fontDescription key="fontDescription" name="Roboto-Medium" family="Roboto" pointSize="17"/>
+                            <color key="textColor" red="0.0" green="0.67450980392156867" blue="0.98039215686274506" alpha="1" colorSpace="calibratedRGB"/>
+                            <nil key="highlightedColor"/>
+                        </label>
+                        <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="2" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="1oP-G1-vcq">
+                            <rect key="frame" x="18" y="71" width="220" height="32"/>
+                            <fontDescription key="fontDescription" name="Roboto-Regular" family="Roboto" pointSize="11"/>
+                            <color key="textColor" red="0.61176470588235299" green="0.61176470588235299" blue="0.61568627450980395" alpha="1" colorSpace="calibratedRGB"/>
+                            <nil key="highlightedColor"/>
+                        </label>
+                        <imageView userInteractionEnabled="NO" contentMode="center" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="defaultCardIconImage" translatesAutoresizingMaskIntoConstraints="NO" id="dTb-73-Zc3">
+                            <rect key="frame" x="19" y="13" width="45" height="45"/>
+                            <constraints>
+                                <constraint firstAttribute="height" constant="45" id="Ti7-98-qsH"/>
+                                <constraint firstAttribute="width" constant="45" id="bKG-cX-35T"/>
+                            </constraints>
+                        </imageView>
+                        <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="mb5-Go-5lp">
+                            <rect key="frame" x="0.0" y="0.0" width="256" height="103"/>
+                            <connections>
+                                <action selector="setSelectedAddress:" destination="-1" eventType="touchUpInside" id="OQH-ek-LbW"/>
+                            </connections>
+                        </button>
+                    </subviews>
+                    <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                    <constraints>
+                        <constraint firstAttribute="trailing" secondItem="9w3-am-Fcx" secondAttribute="trailing" constant="12" id="7nd-YZ-mNq"/>
+                        <constraint firstItem="dTb-73-Zc3" firstAttribute="leading" secondItem="1GS-aY-q81" secondAttribute="leading" constant="19" id="FAg-7H-ymS"/>
+                        <constraint firstItem="1oP-G1-vcq" firstAttribute="top" secondItem="dTb-73-Zc3" secondAttribute="bottom" constant="13" id="Mcn-By-Ab4"/>
+                        <constraint firstAttribute="bottom" secondItem="mb5-Go-5lp" secondAttribute="bottom" id="SKM-Qj-q8y"/>
+                        <constraint firstItem="mb5-Go-5lp" firstAttribute="leading" secondItem="1GS-aY-q81" secondAttribute="leading" id="Sal-MG-37e"/>
+                        <constraint firstItem="9w3-am-Fcx" firstAttribute="leading" secondItem="dTb-73-Zc3" secondAttribute="trailing" constant="11" id="TSU-Mc-GPZ"/>
+                        <constraint firstAttribute="bottom" secondItem="1oP-G1-vcq" secondAttribute="bottom" id="WHw-ns-of3"/>
+                        <constraint firstItem="9w3-am-Fcx" firstAttribute="top" secondItem="1GS-aY-q81" secondAttribute="top" constant="7" id="b8M-8S-Qqu"/>
+                        <constraint firstAttribute="trailing" secondItem="mb5-Go-5lp" secondAttribute="trailing" id="qQr-15-nwv"/>
+                        <constraint firstItem="1oP-G1-vcq" firstAttribute="leading" secondItem="1GS-aY-q81" secondAttribute="leading" constant="18" id="sVd-OF-1I9"/>
+                        <constraint firstAttribute="trailing" secondItem="1oP-G1-vcq" secondAttribute="trailing" constant="18" id="uLT-GM-caH"/>
+                        <constraint firstItem="dTb-73-Zc3" firstAttribute="top" secondItem="1GS-aY-q81" secondAttribute="top" constant="13" id="v6T-fD-MvJ"/>
+                        <constraint firstItem="mb5-Go-5lp" firstAttribute="top" secondItem="1GS-aY-q81" secondAttribute="top" id="zom-9K-L3u"/>
+                    </constraints>
+                    <userDefinedRuntimeAttributes>
+                        <userDefinedRuntimeAttribute type="number" keyPath="layer.cornerRadius">
+                            <integer key="value" value="6"/>
+                        </userDefinedRuntimeAttribute>
+                    </userDefinedRuntimeAttributes>
+                </view>
+            </subviews>
+            <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+            <constraints>
+                <constraint firstItem="1GS-aY-q81" firstAttribute="top" secondItem="UGT-lZ-klv" secondAttribute="top" id="3c1-yw-rpS"/>
+                <constraint firstAttribute="trailing" secondItem="1GS-aY-q81" secondAttribute="trailing" id="HxQ-f5-dcQ"/>
+                <constraint firstItem="1GS-aY-q81" firstAttribute="leading" secondItem="UGT-lZ-klv" secondAttribute="leading" id="MZU-lR-Ujf"/>
+                <constraint firstAttribute="bottom" secondItem="1GS-aY-q81" secondAttribute="bottom" id="nDE-PH-vaf"/>
+            </constraints>
+            <freeformSimulatedSizeMetrics key="simulatedDestinationMetrics"/>
+            <userDefinedRuntimeAttributes>
+                <userDefinedRuntimeAttribute type="number" keyPath="layer.cornerRadius">
+                    <integer key="value" value="6"/>
+                </userDefinedRuntimeAttribute>
+            </userDefinedRuntimeAttributes>
+            <point key="canvasLocation" x="-280" y="-304.5"/>
+        </view>
+    </objects>
+    <resources>
+        <image name="defaultCardIconImage" width="32" height="35"/>
+        <image name="homeAddFavBtn" width="30" height="28"/>
+        <image name="leftCardBG" width="116" height="102"/>
+        <image name="leftEffect" width="103" height="89"/>
+    </resources>
+</document>

@@ -1,0 +1,24 @@
+
+/* Class = "UIButton"; normalTitle = "+5"; ObjectID = "Eon-hd-5Ax"; */
+"Eon-hd-5Ax.normalTitle" = "+٥";
+
+/* Class = "UILabel"; text = "Please Rate Your Trip"; ObjectID = "JZB-NZ-wJz"; */
+"JZB-NZ-wJz.text" = "الرجاء تقييم الرحلة";
+
+/* Class = "UIButton"; normalTitle = "+10"; ObjectID = "K8i-1Z-PNp"; */
+"K8i-1Z-PNp.normalTitle" = "+١٠";
+
+/* Class = "UIButton"; normalTitle = "+2"; ObjectID = "YGl-he-aJS"; */
+"YGl-he-aJS.normalTitle" = "+٢";
+
+/* Class = "UIButton"; normalTitle = "Submit"; ObjectID = "Zsx-Px-Ynt"; */
+"Zsx-Px-Ynt.normalTitle" = "تقييم";
+
+/* Class = "UILabel"; text = "4.88"; ObjectID = "dzS-01-nn4"; */
+"dzS-01-nn4.text" = "٤٫٨٨";
+
+/* Class = "UIButton"; normalTitle = "No Tips"; ObjectID = "gle-oD-HiC"; */
+"gle-oD-HiC.normalTitle" = "بدون اكرامية";
+
+/* Class = "UILabel"; text = "Driver Rating"; ObjectID = "qL8-J5-uRM"; */
+"qL8-J5-uRM.text" = "تقييم السائق";

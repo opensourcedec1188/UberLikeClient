@@ -1,0 +1,182 @@
+/* 
+  Localizable.strings
+  Ego
+
+  Created by MacBookPro on 4/12/17.
+  Copyright © 2017 Amer. All rights reserved.
+*/
+
+/* General */
+"network_problem_title" = "No Network Connection";
+"network_problem_message" = "Please check your network connectevity";
+"Done" = "Done";
+"Cancel" = "Cancel";
+"yes" = "Yes";
+"no" = "No";
+"ok" = "OK";
+"loading" = "Loading...";
+"error_title" = "An Error Occurred";
+"error_message" = "Please try again later";
+"first_name" = "First Name";
+"last_name" = "Last Name";
+"email" = "Email";
+
+
+"saudiRial" = "SR";
+"kiloMeter" = "KM";
+"minute" = "minute";
+"short_minute" = "MIN";
+
+/*Login Mobile Controller*/
+"wrong_mobile_error" = "Invalid Mobile Number";
+"missing_mobile_error" = "Missing Mobile Number";
+
+/*Login Password Controller*/
+"wrong_password" = "Invalid Password";
+"wrong_mobile_password" = "Wrong mobile or password";
+
+/*Forget Password First Controller*/
+"resend_btn_initial" = "30 seconds to send again";
+"resend_btn_counting" = "seconds to resend again";
+"resend_btn_final" = "Resend code again";
+"code_verify_error_title" = "Wrong Verification Code";
+"code_verify_error_message" = "Please enter the code sent to your mobile";
+
+/*Reset Password Controller*/
+"passwords_equality_error" = "Two Passwords Not Equal";
+"missing_password" = "Missing Password";
+"missing_new_password" = "Missing New Password";
+"missing_confirm_password" = "Missing Password Confirmation";
+"personal_passwords_minimum_error" = "Minimum 6 charecters";
+
+/* Register Verify Mobile Controller */
+"sent" = "Sent ..";
+
+/*Register View Controller*/
+"missing_email" = "Missing Email Address";
+"missing_last_name" = "Missing Last Name";
+"missing_first_name" = "Missing First Name";
+"personal_invalid_email" = "Enter valid email (ex@domain.com)";
+"rider_exists" = "Passenger already exists";
+"mobile_exists" = "Mobile Number Exists";
+
+/* Register Controller */
+
+
+/* Left Menu */
+"LM_map" = "Map";
+"LM_myRides" = "My Rides";
+"LM_logout" = "Logout";
+
+/* MapFrom Controller */
+"MFC_selectingOptions_1" = "Set Pin On Map";
+"MFC_selectingOptions_2" = "Tell The Driver";
+"MFC_moveToVehicleType" = "Directly to driver";
+"MFC_skipped" = "Skipped!";
+"MFC_letsGo" = "Let's Go!";
+
+"MFC_dropOff" = "Where You Need To Go";
+"MFC_category" = "Vehicle Category";
+"MFC_rideOptions" = "Ride Options";
+"MFC_to" = "To";
+"MFC_whereTo" = "Where To?";
+"MFC_whereFrom" = "Where From?";
+
+"MFC_rideOptions_quiet" = "Quiet Ride";
+"MFC_rideOptions_haveLuggage" = "Have Luggage";
+"MFC_rideOptions_comments" = "Comments";
+
+"MFC_paymentMethodTitle" = "PAYMENT METHOD";
+"MFC_paymentMethodCash" = "Cash";
+"MFC_paymentMethodWallet" = "Wallet";
+"MFC_paymentMethodVisa" = "Visa";
+
+"MFC_rideOptions" = "Ride Options";
+"MFC_rideOptions_isQuiet" = "";
+"MFC_rideOptions_isLuggage" = "";
+"MFC_vehicle_cat" = "Vehicle Category";
+
+"MFC-incompleteRideParams_title" = "Incomplete Ride Parameters";
+"MFC-incompleteRideParams_message" = "Please complete your ride parameters";
+
+"MFC_missing_cat_title" = "Missing Category";
+"MFC_missing_cat_message" = "Please choose vehicle category";
+
+"MFC_missing_currentLoc_title" = "Missing Current Location";
+"MFC_missing_currentLoc_message" = "Couldn't get your accurate location";
+
+"MFC_missing_dropoffLocation_title" = "Missing Destination";
+"MFC_missing_dropoffLocation_message" = "Please choose your destination";
+
+"MFC_missing_pickupLocation_title" = "Missing Pick-up Location";
+"MFC_missing_pickupLocation_message" = "Please choose your pick-up location";
+
+/* PickupConfirm Controller */
+"PCC_pickupFooterBtnConfirm" = "Confirm Pickup Location";
+"PCC_headet_title_initiated" = "Relax and wait your driver :)";
+"PCC_headet_title_accepted" = "Ride accepted";
+"PCC_headet_body_accepted" = "Driver is on his way";
+"PCC_headet_title_arrived" = "Driver arrived";
+"PCC_headet_body_arrived" = "Driver has arrived to pick-up location";
+"PCC_headet_title_on_ride" = "Ride Started";
+"PCC_headet_body_on_ride" = "You ride has been started, Enjoy it!";
+"PCC_headet_title_clearance" = "Destination Reached";
+"PCC_headet_body_clearance" = "You've reached your destination, Thank You.";
+"PCC_headet_title_canceled" = "Ride Canceled";
+"PCC_headet_body_canceled" = "You ride has been canceled";
+"PCC_headet_title_driver_nearby" = "Driver Is Nearby";
+"PCC_headet_body_driver_nearby" = "Driver is nearby pick-up location";
+
+"PCC_economy" = "Economy";
+"PCC_standard" = "Standard";
+"PCC_family" = "Family";
+"PCC_vip" = "VIP";
+
+
+"PCC_cancel_warning_driver_title" = "Ride Canceled By Driver";
+"PCC_cancel_warning_auto_title" = "Ride has been canceled";
+"PCC_cancel_warning_driver_message" = "Do you want to request a new ride?";
+
+"PCC_unknownRideStatusMessage" = "Unknown Ride Status";
+"PCC_unknownRideStatusTitle" = "Please try again later";
+
+"PCC_warn_client_cancel_title" = "Are You Sure?";
+"PCC_warn_client_cancel_message" = "Ride will be canceled";
+"PCC_warn_client_cancel_message_fees" = "Fees will be applied af you canceled the ride";
+
+"PCC_warn_cancel_end_ride_title" = "End Ride?";
+"PCC_warn_cancel_end_ride_message" = "Cancelling ride now will end ride and start payment process";
+
+"PCC_no_drivers_title" = "No Available Drivers";
+"PCC_no_drivers_message" = "Please try again later";
+
+"PCC_confirm_btn_title" = "Confirm Pick-up Location";
+
+/* Previous Rides Controller */
+"PR_from" = "From: ";
+"PR_to" = "To: ";
+"PR_no_prev_rides" = "You Did Not Make Any Rides Yet";
+"canceled_by" = "Canceled by";
+
+/* RideDetails Controller */
+"RD_BaseFare" = "Base Fare : ";
+"RD_distance" = "Distance : ";
+"RD_Duration" = "Duration : ";
+"RD_Discount" = "Discount : ";
+"RD_total" = "Total :";
+"RD_overCharge" = "Over-Charge : ";
+"RD_no_overCharge" = "No Over-Charge";
+
+"RD_from" = "From : ";
+"RD_to" = "To : ";
+"RD_toNoDetermined" = "Not Determined";
+
+/*Profile Controller*/
+"prog_file_error_title" = "File Not Valid";
+"prog_file_error_message" = "Please upload a valid file";
+"prof_invalid_data" = "Invalid Data";
+
+
+/*Help*/
+"report_trip" = "Report Trip";
+

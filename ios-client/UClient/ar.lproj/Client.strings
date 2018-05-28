@@ -1,0 +1,162 @@
+
+/* Class = "UILabel"; text = "Change notification method and stored contacts"; ObjectID = "3uG-Zt-Xc8"; */
+"3uG-Zt-Xc8.text" = "تغيير الاعدادات";
+
+/* Class = "UILabel"; text = "My credit / debit card (coming soon)"; ObjectID = "4dU-8e-C6y"; */
+"4dU-8e-C6y.text" = "بطاقتي الائتمانية ( قريبا )";
+
+/* Class = "UITextField"; placeholder = "Enter your promo code here"; ObjectID = "6Lb-mk-aFq"; */
+"6Lb-mk-aFq.placeholder" = "ادخل العرض الترويجي";
+
+/* Class = "UILabel"; text = "Click to add Market"; ObjectID = "7YW-3V-Bik"; */
+"7YW-3V-Bik.text" = "اضغط لاضافة سوق";
+
+/* Class = "UILabel"; text = "Other"; ObjectID = "9kp-P1-qTR"; */
+"9kp-P1-qTR.text" = "اخرى";
+
+/* Class = "UILabel"; text = "Driver"; ObjectID = "CJl-Fj-PDq"; */
+"CJl-Fj-PDq.text" = "السائق";
+
+/* Class = "UILabel"; text = "My Wallet"; ObjectID = "Cda-Ha-skK"; */
+"Cda-Ha-skK.text" = "محفظتي";
+
+/* Class = "UILabel"; text = "05123456789"; ObjectID = "Gqj-tO-0GD"; */
+"Gqj-tO-0GD.text" = "٠٥١٢٣٤٥٦٧٨٩";
+
+/* Class = "UILabel"; text = "Ride History"; ObjectID = "HeF-Bv-dd4"; */
+"HeF-Bv-dd4.text" = "الرحلات السابقة";
+
+/* Class = "UILabel"; text = "My Home"; ObjectID = "J7S-Lw-65e"; */
+"J7S-Lw-65e.text" = "الرئيسية";
+
+/* Class = "UILabel"; text = "Password"; ObjectID = "LIt-VC-Z8q"; */
+"LIt-VC-Z8q.text" = "كلمة المرور";
+
+/* Class = "UILabel"; text = "Phone Number"; ObjectID = "LR4-gt-Q1a"; */
+"LR4-gt-Q1a.text" = "رقم الجوال";
+
+/* Class = "UILabel"; text = "4.8"; ObjectID = "MQ1-6N-eRV"; */
+"MQ1-6N-eRV.text" = "٤٫٨";
+
+/* Class = "UILabel"; text = "Privacy Sttings"; ObjectID = "MjK-PW-B3v"; */
+"MjK-PW-B3v.text" = "اعدادات الخصوصية";
+
+/* Class = "UILabel"; text = "My Profile"; ObjectID = "NjE-ZS-q6B"; */
+"NjE-ZS-q6B.text" = "ملفي الشخصي";
+
+/* Class = "UILabel"; text = "Become a driver"; ObjectID = "NnF-l0-OfE"; */
+"NnF-l0-OfE.text" = "احصل على الكابتنية";
+
+/* Class = "UILabel"; text = "Copyright, privacy policy and  Licenses"; ObjectID = "OmG-o9-iZs"; */
+"OmG-o9-iZs.text" = "حقوق الملكية وشروط الاستخدام";
+
+/* Class = "UILabel"; text = "SAR"; ObjectID = "STl-r2-kQZ"; */
+"STl-r2-kQZ.text" = "ر.س.";
+
+/* Class = "UILabel"; text = "Legal"; ObjectID = "Smt-M8-xf8"; */
+"Smt-M8-xf8.text" = "قانوني";
+
+/* Class = "UILabel"; text = "Click to add other "; ObjectID = "TLr-rK-c6u"; */
+"TLr-rK-c6u.text" = "اضغط لاضافة اخرى";
+
+/* Class = "UILabel"; text = "Last Name"; ObjectID = "TYl-AN-VGA"; */
+"TYl-AN-VGA.text" = "الاسم الاخير";
+
+/* Class = "UILabel"; text = "Trip Details"; ObjectID = "Tin-rd-IrH"; */
+"Tin-rd-IrH.text" = "تفاصيل الرحلة";
+
+/* Class = "UILabel"; text = "Market"; ObjectID = "WHL-7V-Pfa"; */
+"WHL-7V-Pfa.text" = "السوق";
+
+/* Class = "UILabel"; text = "First Name"; ObjectID = "YUB-qS-lUR"; */
+"YUB-qS-lUR.text" = "الاسم الاول";
+
+/* Class = "UILabel"; text = "Email"; ObjectID = "YUu-3K-74j"; */
+"YUu-3K-74j.text" = "الايميل";
+
+/* Class = "UILabel"; text = "Email"; ObjectID = "Z72-lg-SCr"; */
+"Z72-lg-SCr.text" = "الايميل";
+
+/* Class = "UILabel"; text = "Your Referrel Code"; ObjectID = "Z8O-jJ-get"; */
+"Z8O-jJ-get.text" = "رمزك المرجعي";
+
+/* Class = "UILabel"; text = "Click to add home"; ObjectID = "ZWQ-6m-Z2x"; */
+"ZWQ-6m-Z2x.text" = "اضغط لاضافة المنزل";
+
+/* Class = "UILabel"; text = "Vehicle"; ObjectID = "a6C-jC-5FB"; */
+"a6C-jC-5FB.text" = "المركبة";
+
+/* Class = "UILabel"; text = "Trip Date"; ObjectID = "aL5-B8-gpq"; */
+"aL5-B8-gpq.text" = "تاريخ الرحلة";
+
+/* Class = "UILabel"; text = "26"; ObjectID = "chd-NF-W09"; */
+"chd-NF-W09.text" = "٢٦";
+
+/* Class = "UILabel"; text = "My Promos"; ObjectID = "dFE-D9-xw2"; */
+"dFE-D9-xw2.text" = "عروضي الترويجية";
+
+/* Class = "UILabel"; text = "Pay with cash"; ObjectID = "eHl-UU-TVL"; */
+"eHl-UU-TVL.text" = "ادفع نقدي";
+
+/* Class = "UILabel"; text = "EGOMOSAMY1990"; ObjectID = "f2B-Eq-X5Z"; */
+"f2B-Eq-X5Z.text" = "EGOMOSAMY1990";
+
+/* Class = "UILabel"; text = "******"; ObjectID = "fNK-Mg-0G9"; */
+"fNK-Mg-0G9.text" = "******";
+
+/* Class = "UILabel"; text = "You Did Not Make Any Rides Yet"; ObjectID = "fg5-94-8E4"; */
+"fg5-94-8E4.text" = "لم تقم باي رحلات بعد";
+
+/* Class = "UILabel"; text = "Sign out"; ObjectID = "ga8-6R-uVc"; */
+"ga8-6R-uVc.text" = "تسجيل خروج";
+
+/* Class = "UIButton"; normalTitle = "Report"; ObjectID = "hfB-Tm-jc0"; */
+"hfB-Tm-jc0.normalTitle" = "ابلاغ";
+
+/* Class = "UILabel"; text = "My Work"; ObjectID = "hxq-Or-A9L"; */
+"hxq-Or-A9L.text" = "عملي";
+
+/* Class = "UILabel"; text = "Please think tiwce :) We will miss you"; ObjectID = "iH2-gv-QUZ"; */
+"iH2-gv-QUZ.text" = "الرجاء التفكير مرتين، سنفتقدك :(";
+
+/* Class = "UILabel"; text = "To"; ObjectID = "iMe-Fx-kzj"; */
+"iMe-Fx-kzj.text" = "الى";
+
+/* Class = "UILabel"; text = "Edit your favorites"; ObjectID = "lEw-Dc-AO8"; */
+"lEw-Dc-AO8.text" = "تعديل المفضلة";
+
+/* Class = "UILabel"; text = "Click to add Work"; ObjectID = "mAy-Yq-Q8d"; */
+"mAy-Yq-Q8d.text" = "اضغط لاضافة العمل";
+
+/* Class = "UILabel"; text = "Settings"; ObjectID = "o1n-lh-JUA"; */
+"o1n-lh-JUA.text" = "الاعدادات";
+
+/* Class = "UILabel"; text = "By turn on the wallet  you will be charged the wallet amount first"; ObjectID = "oLs-BF-Dz6"; */
+"oLs-BF-Dz6.text" = "بتفعيل المحفظة، سيتم خصم المبلغ من المحفظة اولا";
+
+/* Class = "UILabel"; text = "Help"; ObjectID = "qSy-P3-Q67"; */
+"qSy-P3-Q67.text" = "المساعدة";
+
+/* Class = "UILabel"; text = "Payment"; ObjectID = "rWV-o0-SSh"; */
+"rWV-o0-SSh.text" = "الدفع";
+
+/* Class = "UILabel"; text = "From"; ObjectID = "tpB-dN-Jyo"; */
+"tpB-dN-Jyo.text" = "من";
+
+/* Class = "UILabel"; text = "Last Name"; ObjectID = "tsS-Ul-d3S"; */
+"tsS-Ul-d3S.text" = "الاسم الاخير";
+
+/* Class = "UILabel"; text = "Favorite"; ObjectID = "u0B-GC-zXv"; */
+"u0B-GC-zXv.text" = "المفضلة";
+
+/* Class = "UILabel"; text = "Send your code to your friends to earn  20 SAR for each one"; ObjectID = "u6R-xF-M7u"; */
+"u6R-xF-M7u.text" = "شارك الرمز مع اصدقائك لتربح ٢٠ ريال لكل شخص";
+
+/* Class = "UILabel"; text = "First Name"; ObjectID = "wUP-I2-ocM"; */
+"wUP-I2-ocM.text" = "الاسم الاول";
+
+/* Class = "UILabel"; text = "premium offers for new drivers waiting you "; ObjectID = "xvx-HA-Skx"; */
+"xvx-HA-Skx.text" = "عروض عديدة بانتظارك";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "y3H-XH-wYN"; */
+"y3H-XH-wYN.text" = "Label";

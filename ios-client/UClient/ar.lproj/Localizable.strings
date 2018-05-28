@@ -1,0 +1,182 @@
+/*
+ Localizable.strings
+ Ego
+ 
+ Created by MacBookPro on 4/12/17.
+ Copyright © 2017 Amer. All rights reserved.
+ */
+
+/* General */
+"network_problem_title" = "لا يوجد اتصال بالشبكة";
+"network_problem_message" = "الرجاء الاتصال بالشبكة";
+"Done" = "تم";
+"Cancel" = "إلغاء";
+"yes" = "نعم";
+"ok" = "تم";
+"no" = "لا";
+"loading" = "جاري التحميل";
+"error_title" = "حدث خطأ";
+"error_message" = "الرجاء المحاولة لاحقا";
+"first_name" = "الاسم الاول";
+"last_name" = "الاسم الثاني";
+"email" = "الايميل";
+
+"saudiRial" = "ر.س.";
+"kiloMeter" = "كم";
+"minute" = "دقيقة";
+"short_minute" = "د.ق";
+
+/*Login Mobile Controller*/
+"wrong_mobile_error" = "الرقم غير صحيح";
+"missing_mobile_error" = "الرجاء ادخال رقم الهاتف";
+
+/*Login Password Controller*/
+"wrong_password" = "كلمة المرور غير صحيحة";
+"wrong_mobile_password" = "خطأ في رقم الجوال او رقم الهاتف";
+
+/*Forget Password First Controller*/
+"resend_btn_initial" = "٣٠ ثانية لاعادة ارسال الرمز";
+"resend_btn_counting" = "ثانية لاعادة الارسال";
+"resend_btn_final" = "اعادة ارسال الرمز";
+"code_verify_error_title" = "رمز التحقق غير صحيح";
+"code_verify_error_message" = "الرجاء ادخال الرمز المرسل";
+
+/*Reset Password Controller*/
+"passwords_equality_error" = "كلمتي المرور غير متطابقين";
+"missing_password" = "الرجاء ادخال كلمة المرور";
+"missing_new_password" = "الرجاء ادخال كلمة المرور الحالية";
+"missing_confirm_password" = "الرجاء ادخال تأكيد كلمة المرور";
+"personal_passwords_minimum_error" = "٦ حروف كحد ادنى";
+
+/* Register Verify Mobile Controller */
+"sent" = "تم الارسال ..";
+
+/*Register View Controller*/
+"missing_email" = "الرجاء ادخال الايميل";
+"missing_last_name" = "الرجاء ادخال الاسم الاول";
+"missing_first_name" = "الرجاء ادخال الثاني";
+"personal_invalid_email" = "الرجاء إدخال بريد إلكتروني صالح (ex@domain.com)";
+"rider_exists" = "هذا الرقم مسجل من قبل";
+"mobile_exists" = "رقم الجوال مسجل من قبل";
+
+/* Register Controller */
+
+
+/* Left Menu */
+"LM_map" = "الرئيسية";
+"LM_myRides" = "رحلاتي";
+"LM_logout" = "تسجيل خروج";
+
+/* MapFrom Controller */
+"MFC_selectingOptions_1" = "اختر على الخريطة";
+"MFC_selectingOptions_2" = "سوف أخبر السائق";
+"MFC_moveToVehicleType" = "سوف أخبر السائق";
+"MFC_letsGo" = "لنبدأ!";
+"MFC_skipped" = "Skipped!";
+
+"MFC_dropOff" = "مكان الوجهة";
+"MFC_category" = "فئة السيارة";
+"MFC_rideOptions" = "خيارات الرحلة";
+"MFC_to" = "الوجهة";
+"MFC_whereTo" = "الي اين ؟ ";
+"MFC_whereFrom" = "من اين ؟ ";
+
+"MFC_rideOptions_quiet" = "رحلة هادئة";
+"MFC_rideOptions_haveLuggage" = "لديك حمولة";
+"MFC_rideOptions_comments" = "تعليق";
+
+"MFC_paymentMethodTitle" = "طريقة الدفع";
+"MFC_paymentMethodCash" = "نقدا";
+"MFC_paymentMethodWallet" = "المحفظة";
+"MFC_paymentMethodVisa" = "البطاقة الإئتمانية";
+
+"MFC_rideOptions" = "خيارات خاصة للرحلة";
+"MFC_rideOptions_isQuiet" = "رحلة هادئة";
+"MFC_rideOptions_isLuggage" = "امتعة او حقائب";
+"MFC_vehicle_cat" = "فئة السيارة";
+
+"MFC-incompleteRideParams_title" = "بيانات الرحلة غير مكتملة";
+"MFC-incompleteRideParams_message" = "الرجاء إكمال بيانات الرحلة";
+
+"MFC_missing_cat_title" = "لم يتم إختيار الفئة";
+"MFC_missing_cat_message" = "الرجاء اختيار الفئة";
+
+"MFC_missing_currentLoc_title" = "لم يتم تحديد الموقع";
+"MFC_missing_currentLoc_message" = "لم يتم تحديد الموقع بدقة";
+
+"MFC_missing_dropoffLocation_title" = "لم يتم إختيار الوجهة";
+"MFC_missing_dropoffLocation_message" = "الرجاء اختيار الوجهة";
+
+"MFC_missing_pickupLocation_title" = "لم يتم إختيار موقع بدء الرحلة";
+"MFC_missing_pickupLocation_message" = "الرجاء اختيار موقع بدء الرحلة";
+
+/* PickupConfirm Controller */
+
+"PCC_pickupFooterBtnConfirm" = "تأكيد موقع بدء الرحلة";
+"PCC_headet_title_initiated" = "يمكنك الاسترخاء وانتظار السائق :)";
+"PCC_headet_title_accepted" = "تم قبول الرحلة";
+"PCC_headet_body_accepted" = "السائق في طريقه لموقع بدء الرحلة";
+"PCC_headet_title_arrived" = "وصل السائق";
+"PCC_headet_body_arrived" = "وصل السائق لموقع بدء الرحلة";
+"PCC_headet_title_on_ride" = "تم بدء الرحلة";
+"PCC_headet_body_on_ride" = "بدأت الرحلة، رحلة ممتعة :)";
+"PCC_headet_title_clearance" = "تم الوصول";
+"PCC_headet_body_clearance" = "لقد وصلت لوجهتك، شكرا لك";
+"PCC_headet_title_canceled" = "تم إلغاء الرحلة";
+"PCC_headet_body_canceled" = "تم ألغاء رحلتك";
+"PCC_headet_title_driver_nearby" = "اقترب السائق";
+"PCC_headet_body_driver_nearby" = "اقترب السائق";
+
+"PCC_economy" = "EGO";
+"PCC_standard" = "EGO-X";
+"PCC_family" = "عائلي";
+"PCC_vip" = "EGO-V";
+
+"PCC_cancel_warning_driver_title" = "قام السائق بإلغاء الرحلة";
+"PCC_cancel_warning_auto_title" = "تم إلغاء الرحلة";
+"PCC_cancel_warning_driver_message" = "هل تريد أنشاء رحلة جديدة؟";
+
+"PCC_unknownRideStatusMessage" = "رحلة غير معلومة";
+"PCC_unknownRideStatusTitle" = "عذرا، الرجاء المحاولة مرة أخرى";
+
+"PCC_warn_client_cancel_title" = "هل أنت متأكد";
+"PCC_warn_client_cancel_message" = "سوف يتم إلغاء الرحلة";
+"PCC_warn_client_cancel_message_fees" = "سيتم تطبيق غرامة عليك";
+
+"PCC_warn_cancel_end_ride_title" = "هل تريد إنهاء الرحلة؟";
+"PCC_warn_cancel_end_ride_message" = "إلغاء الرحلة حاليا سوف ينهيها و يبدأ مرحلة الدفع";
+
+"PCC_no_drivers_title" = "لا يوجد سائقين";
+"PCC_no_drivers_message" = "الرجاء المحاولة مرة أخرى";
+
+"PCC_confirm_btn_title" = "تأكيد موقع بدء الرحلة ";
+
+
+/* Previous Rides Controller */
+"PR_from" = "من: ";
+"PR_to" = "إلى: ";
+"PR_no_prev_rides" = "لا يوجد رحلات سابقة";
+"canceled_by" = "ملغاة بواسطة";
+
+
+/* RideDetails Controller */
+"RD_BaseFare" = "فتحة العداد :";
+"RD_distance" = "المسافة : ";
+"RD_Duration" = "المدة : ";
+"RD_Discount" = "الخصم : ";
+"RD_total" = "الإجمالي : ";
+"RD_overCharge" = "المبلغ الإضافي : ";
+"RD_no_overCharge" = "لا يوجد مبلغ إضافي";
+
+"RD_from" = "من  :";
+"RD_to" = "الى : ";
+"RD_toNoDetermined" = "غير محدد";
+
+/*Profile Controller*/
+"prog_file_error_title" = "ملف خطأ";
+"prog_file_error_message" = "الرجاء رفع صورة";
+"prof_invalid_data" = "بيانات غير صحيحة";
+
+/*Help*/
+"report_trip" = "الابلاغ عن رحلة";
+

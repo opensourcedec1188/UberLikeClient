@@ -1,0 +1,96 @@
+
+/* Class = "UIButton"; normalTitle = "Let Me Ride"; ObjectID = "1yu-tI-ob9"; */
+"1yu-tI-ob9.normalTitle" = "لنبدأ";
+
+/* Class = "UIButton"; normalTitle = "Go"; ObjectID = "2al-4m-CgJ"; */
+"2al-4m-CgJ.normalTitle" = "الذهاب";
+
+/* Class = "UILabel"; text = "Confirm Password"; ObjectID = "3xq-NQ-eG7"; */
+"3xq-NQ-eG7.text" = "تأكيد كلمة المرور";
+
+/* Class = "UILabel"; text = "Enter the 4 -digits code\nSent to you at "; ObjectID = "7ge-oG-cm1"; */
+"7ge-oG-cm1.text" = "ادخل الرمز المكون من ٤ حروف \n المرسل الى ";
+
+/* Class = "UILabel"; text = "Last Name"; ObjectID = "E5D-S5-a5y"; */
+"E5D-S5-a5y.text" = "الاسم الاخير";
+
+/* Class = "UILabel"; text = "Enter the 4 -digits code\nSent to you at "; ObjectID = "HGc-xx-AhT"; */
+"HGc-xx-AhT.text" = "ادخل الرمز المكون من ٤ حروف \n المرسل الى ";
+
+/* Class = "UILabel"; text = "First Name"; ObjectID = "HeP-Ur-ydw"; */
+"HeP-Ur-ydw.text" = "الاسم الاول";
+
+/* Class = "UILabel"; text = "Reset Password Make sure they will be same"; ObjectID = "Hxu-dd-Hos"; */
+"Hxu-dd-Hos.text" = "اعادة تعيين كلمة المرور الرجاء التأكد من تطابق كلمتي المرور";
+
+/* Class = "UILabel"; text = "05"; ObjectID = "IqZ-fZ-3rg"; */
+"IqZ-fZ-3rg.text" = "٠٥";
+
+/* Class = "UILabel"; text = "First Name"; ObjectID = "IxM-Ug-szZ"; */
+"IxM-Ug-szZ.text" = "الاسم الاول";
+
+/* Class = "UILabel"; text = "Password"; ObjectID = "La6-qU-G55"; */
+"La6-qU-G55.text" = "كلمة المرور";
+
+/* Class = "UIButton"; normalTitle = "Reset Password"; ObjectID = "MdQ-YD-Cj2"; */
+"MdQ-YD-Cj2.normalTitle" = "اعادة تعيين كلمة المرور";
+
+/* Class = "UILabel"; text = "+966"; ObjectID = "NMR-5P-Pil"; */
+"NMR-5P-Pil.text" = "+٩٦٦";
+
+/* Class = "UILabel"; text = "Password"; ObjectID = "Ng0-jh-uiN"; */
+"Ng0-jh-uiN.text" = "كلمة المرور";
+
+/* Class = "UILabel"; text = "First Name"; ObjectID = "YMn-J9-k5n"; */
+"YMn-J9-k5n.text" = "الاسم الاول";
+
+/* Class = "UILabel"; text = "First Name"; ObjectID = "bBP-Mo-RRR"; */
+"bBP-Mo-RRR.text" = "الاسم الاخير";
+
+/* Class = "UIButton"; normalTitle = "Resend code again"; ObjectID = "cGg-Ll-iQg"; */
+"cGg-Ll-iQg.normalTitle" = "اعادة ارسال الرمز";
+
+/* Class = "UIButton"; normalTitle = "Forgot your password "; ObjectID = "cLw-4M-YZf"; */
+"cLw-4M-YZf.normalTitle" = "نسيت كلمة المرور";
+
+/* Class = "UIButton"; normalTitle = "Go"; ObjectID = "fOE-YO-F0p"; */
+"fOE-YO-F0p.normalTitle" = "الذهاب";
+
+/* Class = "UILabel"; text = "By continuing, I agree to easy trip customer's user agreement and terms of services"; ObjectID = "fXa-Jk-Qae"; */
+"fXa-Jk-Qae.text" = "بالاستمرار، اكون قد وافقت علي شروط الاستخدام الخاصة بايجو";
+
+/* Class = "UILabel"; text = "Welcome,  Please type your Password"; ObjectID = "gL4-9a-6Ml"; */
+"gL4-9a-6Ml.text" = "مرحبا،  الرجاء ادخال كلمة المرور";
+
+/* Class = "UILabel"; text = "Confirm Password"; ObjectID = "hhE-jM-I2C"; */
+"hhE-jM-I2C.text" = "تأكيد كلمة المرور";
+
+/* Class = "UILabel"; text = "First Name"; ObjectID = "k3Q-EN-bAf"; */
+"k3Q-EN-bAf.text" = "الاسم الاول";
+
+/* Class = "UILabel"; text = "Just one step, Enter a password for you"; ObjectID = "ojh-hq-ipb"; */
+"ojh-hq-ipb.text" = "خطوة واحدة متبقية، ادخل كلمة المرور";
+
+/* Class = "UIButton"; normalTitle = "Resend code again"; ObjectID = "q48-Rt-aQY"; */
+"q48-Rt-aQY.normalTitle" = "اعادة ارسال الرمز";
+
+/* Class = "UIButton"; normalTitle = "Next"; ObjectID = "riB-LC-mfe"; */
+"riB-LC-mfe.normalTitle" = "التالي";
+
+/* Class = "UILabel"; text = "05"; ObjectID = "sPb-lO-PIa"; */
+"sPb-lO-PIa.text" = "٠٥";
+
+/* Class = "UILabel"; text = "Some info About you"; ObjectID = "tHz-ce-RGj"; */
+"tHz-ce-RGj.text" = "بعض المعلومات عنك";
+
+/* Class = "UITextField"; placeholder = "05123456789"; ObjectID = "tZw-8H-heo"; */
+"tZw-8H-heo.placeholder" = "٠٥١٢٣٤٥٦٧٨٩";
+
+/* Class = "UILabel"; text = "Email"; ObjectID = "uJQ-cp-xJb"; */
+"uJQ-cp-xJb.text" = "الايميل";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "uuB-df-0qS"; */
+"uuB-df-0qS.placeholder" = "كلمة المرور";
+
+/* Class = "UILabel"; text = "First Name"; ObjectID = "zjq-pI-cOM"; */
+"zjq-pI-cOM.text" = "الاسم الاول";

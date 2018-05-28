@@ -1,0 +1,15 @@
+
+/* Class = "UIButton"; normalTitle = "Cancel The Ride"; ObjectID = "U3Q-Fn-bXJ"; */
+"U3Q-Fn-bXJ.normalTitle" = "إلغاء الرحلة";
+
+/* Class = "UILabel"; text = "Are you sure that you want cancel The ride search"; ObjectID = "UTQ-DW-76f"; */
+"UTQ-DW-76f.text" = "هل أنت متأكد من إلغاء رحلتك";
+
+/* Class = "UILabel"; text = "Searching….."; ObjectID = "W6T-5Q-kaN"; */
+"W6T-5Q-kaN.text" = "جاري البحث...";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "Whk-tl-afm"; */
+"Whk-tl-afm.normalTitle" = "إلغاء الرحلة";
+
+/* Class = "UIButton"; normalTitle = "No"; ObjectID = "oMr-fx-GM6"; */
+"oMr-fx-GM6.normalTitle" = "استكمال الرحلة";

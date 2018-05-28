@@ -1,0 +1,24 @@
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "4BA-CJ-shm"; */
+"4BA-CJ-shm.normalTitle" = "موافق";
+
+/* Class = "UILabel"; text = "RTE"; ObjectID = "5lu-2f-mcd"; */
+"5lu-2f-mcd.text" = "";
+
+/* Class = "UILabel"; text = "You maybe partially charged for this ride since it’s already in progress"; ObjectID = "7aJ-as-W3v"; */
+"7aJ-as-W3v.text" = "قد يتم احتساب غرامة في حالة الالغاء نظرا لبدء الرحلة هل تريد الالغاء؟";
+
+/* Class = "UILabel"; text = "Name"; ObjectID = "Haj-4e-FdI"; */
+"Haj-4e-FdI.text" = "الاسم";
+
+/* Class = "UIButton"; normalTitle = "No"; ObjectID = "OZQ-n7-YKS"; */
+"OZQ-n7-YKS.normalTitle" = "استكمال الرحلة";
+
+/* Class = "UILabel"; text = "Vehicle"; ObjectID = "X0d-pj-atY"; */
+"X0d-pj-atY.text" = "";
+
+/* Class = "UIButton"; normalTitle = "Cancel the ride"; ObjectID = "ZiJ-zV-KeZ"; */
+"ZiJ-zV-KeZ.normalTitle" = "ألغاء الرحلة";
+
+/* Class = "UILabel"; text = "Letters - Numbers"; ObjectID = "aHe-QP-lmZ"; */
+"aHe-QP-lmZ.text" = "";

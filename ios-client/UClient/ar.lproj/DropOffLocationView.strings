@@ -1,0 +1,15 @@
+
+/* Class = "UILabel"; text = "Other"; ObjectID = "09l-aQ-FF2"; */
+"09l-aQ-FF2.text" = "أخرى";
+
+/* Class = "UILabel"; text = "Home"; ObjectID = "A4A-UP-JlD"; */
+"A4A-UP-JlD.text" = "المنزل";
+
+/* Class = "UILabel"; text = "Market"; ObjectID = "bbL-WS-IYy"; */
+"bbL-WS-IYy.text" = "تسوق";
+
+/* Class = "UILabel"; text = "Work"; ObjectID = "hSz-y7-oTX"; */
+"hSz-y7-oTX.text" = "العمل";
+
+/* Class = "UITextField"; placeholder = "Type Address Here"; ObjectID = "sVT-se-GdM"; */
+"sVT-se-GdM.placeholder" = "ابحث عن عنوان محدد";

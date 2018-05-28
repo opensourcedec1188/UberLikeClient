@@ -1,0 +1,24 @@
+
+/* Class = "UILabel"; text = "EGO-X Cost"; ObjectID = "Egt-e4-7tg"; */
+"Egt-e4-7tg.text" = "تكلفة ايجو x ";
+
+/* Class = "UILabel"; text = "EGO-V Cost"; ObjectID = "JAg-Mb-Fho"; */
+"JAg-Mb-Fho.text" = "تكلفة ايجو اعمال";
+
+/* Class = "UILabel"; text = "EGO Cost"; ObjectID = "KSP-ve-O14"; */
+"KSP-ve-O14.text" = "تكلفة ايجو";
+
+/* Class = "UILabel"; text = "EGO"; ObjectID = "UP3-b9-obv"; */
+"UP3-b9-obv.text" = "ايجو";
+
+/* Class = "UILabel"; text = "ETA"; ObjectID = "XrF-L1-qgN"; */
+"XrF-L1-qgN.text" = "وقت الوصول";
+
+/* Class = "UIButton"; normalTitle = "CONFIRM"; ObjectID = "jD7-ka-fxO"; */
+"jD7-ka-fxO.normalTitle" = "تأكيد";
+
+/* Class = "UILabel"; text = "EGO-X"; ObjectID = "luy-cr-efx"; */
+"luy-cr-efx.text" = "ايجو x";
+
+/* Class = "UILabel"; text = "EGO-V"; ObjectID = "n7d-Te-fTN"; */
+"n7d-Te-fTN.text" = "ايجو اعمال";

@@ -1,0 +1,24 @@
+
+/* Class = "UILabel"; text = "4.88"; ObjectID = "1Ww-Y3-kw2"; */
+"1Ww-Y3-kw2.text" = "4.88";
+
+/* Class = "UILabel"; text = "Payment"; ObjectID = "BOn-D9-Qe6"; */
+"BOn-D9-Qe6.text" = "الدفع";
+
+/* Class = "UILabel"; text = "My Profile"; ObjectID = "KYI-cZ-yjf"; */
+"KYI-cZ-yjf.text" = "ملفي الشخصي";
+
+/* Class = "UILabel"; text = "Rides History"; ObjectID = "QYc-M3-fzR"; */
+"QYc-M3-fzR.text" = "رحلاتي";
+
+/* Class = "UILabel"; text = "Promos"; ObjectID = "XqR-aD-Mjb"; */
+"XqR-aD-Mjb.text" = "الجوائز";
+
+/* Class = "UILabel"; text = "Settings"; ObjectID = "mF1-8s-WG5"; */
+"mF1-8s-WG5.text" = "الإعدادات";
+
+/* Class = "UILabel"; text = "Name"; ObjectID = "q4V-gy-Lds"; */
+"q4V-gy-Lds.text" = "الاسم";
+
+/* Class = "UILabel"; text = "Help"; ObjectID = "wHv-ld-YP5"; */
+"wHv-ld-YP5.text" = "مساعدة";

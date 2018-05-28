@@ -1,0 +1,12 @@
+
+/* Class = "UILabel"; text = "Subject"; ObjectID = "0cX-IU-MoD"; */
+"0cX-IU-MoD.text" = "الموضوع";
+
+/* Class = "UILabel"; text = "Help"; ObjectID = "L04-6r-o7q"; */
+"L04-6r-o7q.text" = "المساعدة";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "MLK-MS-fkL"; */
+"MLK-MS-fkL.text" = "";
+
+/* Class = "UIButton"; normalTitle = "Submit"; ObjectID = "tV4-CH-ik4"; */
+"tV4-CH-ik4.normalTitle" = "ارسال";

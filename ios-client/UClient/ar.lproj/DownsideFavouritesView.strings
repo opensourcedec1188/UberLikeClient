@@ -1,0 +1,9 @@
+
+/* Class = "UILabel"; text = "Favorite"; ObjectID = "Ff1-ql-iEI"; */
+"Ff1-ql-iEI.text" = "المفضلة";
+
+/* Class = "UILabel"; text = "Recent"; ObjectID = "YgW-lY-VeW"; */
+"YgW-lY-VeW.text" = "السابقة";
+
+/* Class = "UILabel"; text = "Nearby"; ObjectID = "nRf-r9-5Bi"; */
+"nRf-r9-5Bi.text" = "الاماكن المحيطة";

@@ -1,0 +1,36 @@
+
+/* Class = "UILabel"; text = "Your Current Password"; ObjectID = "1LO-ob-JEr"; */
+"1LO-ob-JEr.text" = "كلمة المرور الحالية";
+
+/* Class = "UIButton"; normalTitle = "Send Code"; ObjectID = "2iI-sJ-2VA"; */
+"2iI-sJ-2VA.normalTitle" = "ارسل الرمز";
+
+/* Class = "UILabel"; text = "Last Step"; ObjectID = "FIg-YJ-gol"; */
+"FIg-YJ-gol.text" = "الخطوة الاخيرة";
+
+/* Class = "UILabel"; text = "Enter the 4 -digits code sent to you at "; ObjectID = "MKz-ZI-XL3"; */
+"MKz-ZI-XL3.text" = "الرجاء إدخال الرمز المكون من ٤ أحرف و المرسل الى";
+
+/* Class = "UITextField"; placeholder = "Enter Your New Number"; ObjectID = "OXz-ZK-1BZ"; */
+"OXz-ZK-1BZ.placeholder" = "أدخل الرقم الجديد";
+
+/* Class = "UILabel"; text = "Step 1"; ObjectID = "S9p-FS-6HR"; */
+"S9p-FS-6HR.text" = "خطوة ١";
+
+/* Class = "UILabel"; text = "First Name"; ObjectID = "bAk-hc-KsD"; */
+"bAk-hc-KsD.text" = "";
+
+/* Class = "UILabel"; text = "05"; ObjectID = "d7u-9L-0Br"; */
+"d7u-9L-0Br.text" = "٠٥";
+
+/* Class = "UILabel"; text = "+966"; ObjectID = "jrr-Ba-Hw6"; */
+"jrr-Ba-Hw6.text" = "+٩٦٦";
+
+/* Class = "UILabel"; text = "Step 2"; ObjectID = "okJ-wn-kNM"; */
+"okJ-wn-kNM.text" = "خطوة ٢";
+
+/* Class = "UIButton"; normalTitle = "Resend code again"; ObjectID = "st2-pB-Cwe"; */
+"st2-pB-Cwe.normalTitle" = "إعادة إرسال الرمز";
+
+/* Class = "UIButton"; normalTitle = "Continue"; ObjectID = "wXa-Jr-ib4"; */
+"wXa-Jr-ib4.normalTitle" = "المتابعة";
